@@ -2,7 +2,7 @@
 
 ## Table of Contents
 - [Domains](#Domains)
-- [Transfer] (#Transfer)
+- [Transfer](#Transfer)
 
 
 ## Domains
